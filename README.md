@@ -77,6 +77,6 @@
     <div class="flame"></div>
   </div>
   <h1>🎉 Happy Birthday 🎉</h1>
-  <h2>Michael Cabus</h2>
+  <h2>Michael Oleveros Cabus</h2>
 </body>
 </html>
